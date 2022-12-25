@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me anything.
 - 📫 How to reach me: 
-    Instagram: @aadirajuthup
-    Telegram: @aadirajuthup
+    - Instagram: @aadirajuthup
+    - Telegram: @aadirajuthup
 - ⚡ Fun fact: This is a fun fact, Yay!
