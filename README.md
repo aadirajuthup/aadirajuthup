@@ -7,7 +7,6 @@
     - [Direct.me] (https://direct.me/aadirajuthup)
 - ⚡ Fun fact: This is a fun fact, Yay!
 
-[![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadirajuthup&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aadirajuthup)](https://git.io/streak-stats)
+[![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadirajuthup&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats-ivory-eight.vercel.app?user=aadirajuthup&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/aadirajuthup/count.svg)
