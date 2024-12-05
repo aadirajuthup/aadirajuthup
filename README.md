@@ -6,3 +6,5 @@
 - 📫 How to reach me: 
     - [Direct.me] (https://direct.me/aadirajuthup)
 - ⚡ Fun fact: This is a fun fact, Yay!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
