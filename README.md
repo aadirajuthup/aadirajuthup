@@ -7,4 +7,4 @@
     - [Direct.me] (https://direct.me/aadirajuthup)
 - ⚡ Fun fact: This is a fun fact, Yay!
 
-![Visitor Count](https : //profile-counter.glitch.me/aadirajuthup/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/aadirajuthup/count.svg)
